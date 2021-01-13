@@ -6,7 +6,9 @@ It is Rexi based and can only run in Rexi environment. For more information abou
 
 
 ```
-sdfsdfsd
+define model Bank
+    account (Account)*
+;
 ```
 
 ```html
