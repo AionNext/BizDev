@@ -65,3 +65,6 @@ Describes the terms used in GridDB in a list.
 |--------------------------------|------------------------------------------------------------------------|
 | main-frame                     | Top level Main frame UI class                                          | 
 | main-frame                     | Top level Main frame UI class                                          | 
+| main-frame                     | Top level Main frame UI class                                          | 
+| main-frame                     | Top level Main frame UI class                                          | 
+| main-frame                     | Top level Main frame UI class                                          | 
