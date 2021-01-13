@@ -1,5 +1,6 @@
-# BizCod
-this is a default BizCod repository. 
+# BizDev
+
+BizDev is a suite of products that enable the development of Enterprise Application Software fabric in Rexi environment.
 This repository serves as  astarting point and it will be expanded as the project grows.
 
 ```
