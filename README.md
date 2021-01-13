@@ -1,7 +1,8 @@
 # BizDev
 
-BizDev is a suite of products that enable the development of Enterprise Application Software fabric in Rexi environment.
-It is Rexi based andf can only run int Rexi environment. For more information about Rexi Operating System please refer to this publication.
+BizDev is a suite of products that enable the development of Enterprise Application Software Fabric (EAS/F) in Rexi environment.
+
+It is Rexi based and can only run in Rexi environment. For more information about Rexi Operating System please refer to this publication.
 
 
 ```
