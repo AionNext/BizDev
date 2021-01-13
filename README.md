@@ -16,6 +16,8 @@ sdfsdfsd
 ---							  
 # Introduction									 
 
+swdfewrfewrewr
+
 ## Purpose of this documentation
 
 This manual is targeted at designers and developers who perform system design and development using GridDB Community Edition.
