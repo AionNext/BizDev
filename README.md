@@ -10,6 +10,10 @@ sdfsdfsd
 * [Introduction](#introduction)
 * [Structure of BizCod](#structure-of-griddb)
 
+    - [Miscellaneous](#miscellaneous)
+        - [Dependency Injection](#dependency-injection)
+        - [Project Layout](#project-layout)
+        - [Strings](#strings)
 
 
 ---							  
