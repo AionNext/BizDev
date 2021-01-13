@@ -48,7 +48,7 @@ The contents of this manual are as follows.
 
 ## Instruction set
 
-This manual is targeted at designers and developers who perform system design and development using GridDB Community Edition.
+This manual is targeted at <b>designers</b> and developers who perform system design and development using GridDB Community Edition.
 
 
 #### :warning: Note
