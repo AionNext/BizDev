@@ -9,6 +9,7 @@ sdfsdfsd
 ## Table of Contents
 * [Introduction](#introduction)
 * [Structure of BizCod](#structure-of-griddb)
+* [Instruction set](#structure-of-griddb)
 
 
 
