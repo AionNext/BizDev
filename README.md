@@ -7,7 +7,8 @@ It is Rexi based and can only run in Rexi environment. For more information abou
 
 ```
 define model Bank
-    id ID
+    id ID,
+    name Text fact,
     account (Account)* [1:n]
 ;
 ```
