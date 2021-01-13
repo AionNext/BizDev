@@ -60,6 +60,8 @@ This manual is targeted at <b>designers</b> and developers who perform system de
 
 Describes the terms used in GridDB in a list.
 
-| Term                                                | Description                                                                                                                                                                                                                                                                                                                                                                                  
+
+| Term                           | Description   |
 |--------------------------------|------------------------------------------------------------------------|
-| main-frame                     | Top level Main frame UI class                                          |                                                                                                                                                                                                                                                       | | manu-item                      | Single or a set of nodes that perform data management together in an integrated manner.                                                                                                                                                                                                                                                                                                      |
+| main-frame                     | Top level Main frame UI class                                          | 
+| main-frame                     | Top level Main frame UI class                                          | 
