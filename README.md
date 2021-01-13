@@ -6,6 +6,18 @@ This repository serves as  astarting point and it will be expanded as the projec
 sdfsdfsd
 ```
 
+```html
+<script src="//unpkg.com/graphre/dist/graphre.js"></script>
+<script src="//unpkg.com/nomnoml/dist/nomnoml.js"></script>
+
+<canvas id="target-canvas"></canvas>
+<script>
+    var canvas = document.getElementById('target-canvas');
+    var source = '[nomnoml] is -> [awesome]';
+    nomnoml.draw(canvas, source);
+</script>
+```
+
 ## Table of Contents
 * [Introduction](#introduction)
 * [Structure of BizCod](#structure-of-griddb)
