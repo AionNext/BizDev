@@ -6,3 +6,43 @@ This repository serves as  astarting point and it will be expanded as the projec
 sdfsdfsd
 ```
 
+## Table of Contents
+* [Introduction](#introduction)
+* [Structure of GridDB](#structure-of-griddb)
+* [GridDB data model](#data-model)
+* [Database function](#database-function)
+* [Admin function](#admin-function)
+* [Parameter](#parameter)	
+
+
+---							  
+# Introduction									 
+
+## Purpose of this documentation
+
+This manual is targeted at designers and developers who perform system design and development using GridDB Community Edition.
+
+The contents of this manual are as follows.
+
+  - Structure of GridDB
+      - Describes the cluster operating structure in GridDB.
+  - The data model of GridDB
+      - Describes the data model of GridDB.
+  - Functions provided by GridDB
+      - Describes the data management functions provided by GridDB.
+  - Parameter
+      - Describes the parameters to control the operations in GridDB.
+
+#### :warning: Note
+- GridDB is a database that manages a group of data (known as a row) that is made up of a key and multiple values. Besides having a composition of an in-memory database that arranges all the data in the memory, it can also adopt a hybrid composition combining the use of a disk (including SSD as well) and a memory. 
+- OS user (gsadm) is created when GridDB is installed using the package.
+
+
+## Terminology
+
+Describes the terms used in GridDB in a list.
+
+| Term                                                | Description                                                                                                                                                                                                                                                                                                                                                                                  |
+|--------------------------------|------------------------------------------------------------------------|
+| Node                                                | Refers to the individual server process to perform data management in GridDB.                                                                                                                                                                                                                                                                                                                |
+| Cluster                                             | Single or a set of nodes that perform data management together in an integrated manner.                                                                                                                                                                                                                                                                                                      |
