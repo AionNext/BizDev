@@ -8,11 +8,8 @@ sdfsdfsd
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Structure of GridDB](#structure-of-griddb)
-* [GridDB data model](#data-model)
-* [Database function](#database-function)
-* [Admin function](#admin-function)
-* [Parameter](#parameter)	
+* [Structure of BizCod](#structure-of-griddb)
+
 
 
 ---							  
