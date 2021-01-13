@@ -21,7 +21,7 @@ sdfsdfsd
 ## Table of Contents
 * [Introduction](#introduction)
 * [Structure of BizCod](#structure-of-griddb)
-* [Instruction set](#structure-of-griddb)
+* [Instruction set](#instruction-set)
 
 
 
@@ -45,6 +45,11 @@ The contents of this manual are as follows.
       - Describes the data management functions provided by GridDB.
   - Parameter
       - Describes the parameters to control the operations in GridDB.
+
+## Instruction set
+
+This manual is targeted at designers and developers who perform system design and development using GridDB Community Edition.
+
 
 #### :warning: Note
 - GridDB is a database that manages a group of data (known as a row) that is made up of a key and multiple values. Besides having a composition of an in-memory database that arranges all the data in the memory, it can also adopt a hybrid composition combining the use of a disk (including SSD as well) and a memory. 
