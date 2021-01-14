@@ -75,3 +75,29 @@ Describes the terms used in GridDB in a list.
 | main-frame                     | Top level Main frame UI class                                          | 
 | main-frame                     | Top level Main frame UI class                                          | 
 | main-frame                     | Top level Main frame UI class                                          | 
+
+
+
+#### You can use Apollo Server as:
+
+* A stand-alone GraphQL server, including in a serverless environment
+* An add-on to your application's existing [Node.js middleware](./integrations/middleware/) (such as Express or Fastify)
+* A gateway for a [federated data graph](https://www.apollographql.com/docs/federation/)
+
+#### Apollo Server provides:
+
+*  **Straightforward setup**, so your client developers can start fetching data quickly
+*  **Incremental adoption**, allowing you to add features as they're needed
+*  **Universal compatibility** with any data source, any build tool, and any GraphQL client
+*  **Production readiness**, enabling you to ship features faster
+
+#### Ready to try it out?
+
+import {Button} from '@apollo/space-kit/Button';
+import {Link} from 'gatsby';
+
+<div align="center">
+  <Button as={<Link to="/getting-started/" />} size="large">
+    Get started!
+  </Button>
+</div>
