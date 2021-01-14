@@ -93,11 +93,4 @@ Describes the terms used in GridDB in a list.
 
 #### Ready to try it out?
 
-import {Button} from '@apollo/space-kit/Button';
-import {Link} from 'gatsby';
-
-<div align="center">
-  <Button as={<Link to="/getting-started/" />} size="large">
-    Get started!
-  </Button>
-</div>
+asdadsadsa
