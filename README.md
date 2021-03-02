@@ -1,4 +1,4 @@
-# BizDev
+# BizDev Programming Guide
 
 BizDev is a suite of products that enable the development of Enterprise Application Software Fabric (EAS/F) in Rexi environment.
 
